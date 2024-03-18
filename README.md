@@ -1,2 +1,2 @@
-# shoppito
-my shop like stockx
+# find your dream djob
+side looks like justjoint it
