@@ -1,2 +1,3 @@
-# find your dream djob
-side looks like justjoint it
+# itGateway
+
+django+drf+next.js
