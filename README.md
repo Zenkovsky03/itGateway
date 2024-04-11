@@ -1,5 +1,6 @@
 # itGateway
 
-django+drf+next.js
-
-geolocation
+geolokacja
+postgres
+api
+next.js
